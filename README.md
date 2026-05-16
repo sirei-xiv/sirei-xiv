@@ -59,12 +59,12 @@ Consultez les dépôts pour suivre les prototypes et l’évolution des projets.
 ## Statistiques GitHub
 
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sirei_xiv&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirei_xiv&layout=compact&theme=dark&hide_border=true" />
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sirei-xiv&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirei-xiv&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sirei_xiv&theme=dark&hide_border=true" />
+  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sirei-xiv&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -79,9 +79,9 @@ Consultez les dépôts pour suivre les prototypes et l’évolution des projets.
 ---
 
 ## Contact
-- GitHub : https://github.com/sirei_xiv
-- LinkedIn : https://linkedin.com/in/sira-dieng (placeholder)
-- Email : siradieng9305@gmail.com (placeholder)
+- GitHub : https://github.com/sirei-xiv
+- LinkedIn : https://linkedin.com/in/sira-dieng
+- Email : siradieng9305@gmail.com 
 <!-- - Portfolio : https://your-portfolio.example (placeholder) -->
 
 ---
