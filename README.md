@@ -59,12 +59,17 @@ Consultez les dépôts pour suivre les prototypes et l’évolution des projets.
 ## Statistiques GitHub
 
 <p align="center">
-  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirei-xiv&theme=github_dark" />
+  <table>
+    <tr>
+      <td width="100%">
+        <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirei-xiv&theme=github_dark" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <!-- <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirei-xiv&theme=github_dark" /> -->
-  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sirei-xiv&theme=dark&hide_border=true" />
+  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sirei-xiv&theme=dark&hide_border=true" width="92%" />
 </p>
 
 ---
